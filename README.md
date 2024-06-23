@@ -3,6 +3,7 @@
 
 ## Sobre mim
 olá eu sou um universitario da faculdade [UniAnchieta](https://anchieta.br), estou no segundo semestre do curso de ciências da computação e desejo abrangir mais meu conhecimento sobre a area de tecnologia para desenvolvimento pessoal e profissional.
+Atualmente alem de cursar ciências da computação, estudo nas plataformas online [Digital Innovation One](https://www.dio.me) e na [Curso em video](https://www.cursoemvideo.com)
 
 ## Me conheça
 
