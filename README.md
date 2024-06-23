@@ -6,7 +6,7 @@ olá eu sou um universitario da faculdade [UniAnchieta](https://anchieta.br), es
 
 ## Me conheça
 
-[![Github](https://img.shields.io/badge/GitHub-030506?style=for-the-badge&logo=GitHub&logoColor=blue)]()
+[![Github](https://img.shields.io/badge/GitHub-030506?style=for-the-badge&logo=GitHub&logoColor=blue)](https://github.com/Gabrielfer0113/Perfil/blob/main/README.md)
 
 [![Likedin](https://img.shields.io/badge/Linkedin-030506?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gabriel-fernando-378bb7314/)
 
